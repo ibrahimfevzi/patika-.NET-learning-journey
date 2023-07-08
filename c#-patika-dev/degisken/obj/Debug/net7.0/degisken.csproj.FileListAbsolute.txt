@@ -1,0 +1,30 @@
+/Users/ibrahimkayan/My-Repos/c# patika-dev/degisken/bin/Debug/net7.0/degisken
+/Users/ibrahimkayan/My-Repos/c# patika-dev/degisken/bin/Debug/net7.0/degisken.deps.json
+/Users/ibrahimkayan/My-Repos/c# patika-dev/degisken/bin/Debug/net7.0/degisken.runtimeconfig.json
+/Users/ibrahimkayan/My-Repos/c# patika-dev/degisken/bin/Debug/net7.0/degisken.dll
+/Users/ibrahimkayan/My-Repos/c# patika-dev/degisken/bin/Debug/net7.0/degisken.pdb
+/Users/ibrahimkayan/My-Repos/c# patika-dev/degisken/obj/Debug/net7.0/degisken.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/c# patika-dev/degisken/obj/Debug/net7.0/degisken.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/c# patika-dev/degisken/obj/Debug/net7.0/degisken.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/c# patika-dev/degisken/obj/Debug/net7.0/degisken.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/c# patika-dev/degisken/obj/Debug/net7.0/degisken.csproj.CoreCompileInputs.cache
+/Users/ibrahimkayan/My-Repos/c# patika-dev/degisken/obj/Debug/net7.0/degisken.dll
+/Users/ibrahimkayan/My-Repos/c# patika-dev/degisken/obj/Debug/net7.0/refint/degisken.dll
+/Users/ibrahimkayan/My-Repos/c# patika-dev/degisken/obj/Debug/net7.0/degisken.pdb
+/Users/ibrahimkayan/My-Repos/c# patika-dev/degisken/obj/Debug/net7.0/degisken.genruntimeconfig.cache
+/Users/ibrahimkayan/My-Repos/c# patika-dev/degisken/obj/Debug/net7.0/ref/degisken.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/degisken/bin/Debug/net7.0/degisken
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/degisken/bin/Debug/net7.0/degisken.deps.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/degisken/bin/Debug/net7.0/degisken.runtimeconfig.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/degisken/bin/Debug/net7.0/degisken.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/degisken/bin/Debug/net7.0/degisken.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/degisken/obj/Debug/net7.0/degisken.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/degisken/obj/Debug/net7.0/degisken.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/degisken/obj/Debug/net7.0/degisken.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/degisken/obj/Debug/net7.0/degisken.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/degisken/obj/Debug/net7.0/degisken.csproj.CoreCompileInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/degisken/obj/Debug/net7.0/degisken.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/degisken/obj/Debug/net7.0/refint/degisken.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/degisken/obj/Debug/net7.0/degisken.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/degisken/obj/Debug/net7.0/degisken.genruntimeconfig.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/degisken/obj/Debug/net7.0/ref/degisken.dll

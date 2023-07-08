@@ -1,0 +1,15 @@
+/Users/ibrahimkayan/My-Repos/console-programlama/bin/Debug/net7.0/console-programlama
+/Users/ibrahimkayan/My-Repos/console-programlama/bin/Debug/net7.0/console-programlama.deps.json
+/Users/ibrahimkayan/My-Repos/console-programlama/bin/Debug/net7.0/console-programlama.runtimeconfig.json
+/Users/ibrahimkayan/My-Repos/console-programlama/bin/Debug/net7.0/console-programlama.dll
+/Users/ibrahimkayan/My-Repos/console-programlama/bin/Debug/net7.0/console-programlama.pdb
+/Users/ibrahimkayan/My-Repos/console-programlama/obj/Debug/net7.0/console-programlama.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/console-programlama/obj/Debug/net7.0/console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/console-programlama/obj/Debug/net7.0/console-programlama.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/console-programlama/obj/Debug/net7.0/console-programlama.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/console-programlama/obj/Debug/net7.0/console-programlama.csproj.CoreCompileInputs.cache
+/Users/ibrahimkayan/My-Repos/console-programlama/obj/Debug/net7.0/console-programlama.dll
+/Users/ibrahimkayan/My-Repos/console-programlama/obj/Debug/net7.0/refint/console-programlama.dll
+/Users/ibrahimkayan/My-Repos/console-programlama/obj/Debug/net7.0/console-programlama.pdb
+/Users/ibrahimkayan/My-Repos/console-programlama/obj/Debug/net7.0/console-programlama.genruntimeconfig.cache
+/Users/ibrahimkayan/My-Repos/console-programlama/obj/Debug/net7.0/ref/console-programlama.dll
