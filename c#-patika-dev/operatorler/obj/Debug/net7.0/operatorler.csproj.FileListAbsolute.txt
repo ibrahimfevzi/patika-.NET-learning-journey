@@ -1,0 +1,15 @@
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/operatorler/bin/Debug/net7.0/operatorler
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/operatorler/bin/Debug/net7.0/operatorler.deps.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/operatorler/bin/Debug/net7.0/operatorler.runtimeconfig.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/operatorler/bin/Debug/net7.0/operatorler.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/operatorler/bin/Debug/net7.0/operatorler.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/operatorler/obj/Debug/net7.0/operatorler.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/operatorler/obj/Debug/net7.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/operatorler/obj/Debug/net7.0/operatorler.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/operatorler/obj/Debug/net7.0/operatorler.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/operatorler/obj/Debug/net7.0/operatorler.csproj.CoreCompileInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/operatorler/obj/Debug/net7.0/operatorler.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/operatorler/obj/Debug/net7.0/refint/operatorler.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/operatorler/obj/Debug/net7.0/operatorler.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/operatorler/obj/Debug/net7.0/operatorler.genruntimeconfig.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/operatorler/obj/Debug/net7.0/ref/operatorler.dll
