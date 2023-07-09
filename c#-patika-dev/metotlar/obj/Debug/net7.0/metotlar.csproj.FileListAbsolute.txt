@@ -1,0 +1,15 @@
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar/bin/Debug/net7.0/metotlar
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar/bin/Debug/net7.0/metotlar.deps.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar/bin/Debug/net7.0/metotlar.runtimeconfig.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar/bin/Debug/net7.0/metotlar.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar/bin/Debug/net7.0/metotlar.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar/obj/Debug/net7.0/metotlar.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar/obj/Debug/net7.0/metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar/obj/Debug/net7.0/metotlar.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar/obj/Debug/net7.0/metotlar.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar/obj/Debug/net7.0/metotlar.csproj.CoreCompileInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar/obj/Debug/net7.0/metotlar.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar/obj/Debug/net7.0/refint/metotlar.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar/obj/Debug/net7.0/metotlar.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar/obj/Debug/net7.0/metotlar.genruntimeconfig.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar/obj/Debug/net7.0/ref/metotlar.dll
