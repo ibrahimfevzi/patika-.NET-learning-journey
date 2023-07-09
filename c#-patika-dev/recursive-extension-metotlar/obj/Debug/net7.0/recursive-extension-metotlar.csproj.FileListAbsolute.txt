@@ -1,0 +1,15 @@
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/recursive-extension-metotlar/obj/Debug/net7.0/recursive-extension-metotlar.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/recursive-extension-metotlar/obj/Debug/net7.0/recursive-extension-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/recursive-extension-metotlar/obj/Debug/net7.0/recursive-extension-metotlar.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/recursive-extension-metotlar/obj/Debug/net7.0/recursive-extension-metotlar.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/recursive-extension-metotlar/obj/Debug/net7.0/recursive-extension-metotlar.csproj.CoreCompileInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/recursive-extension-metotlar/bin/Debug/net7.0/recursive-extension-metotlar
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/recursive-extension-metotlar/bin/Debug/net7.0/recursive-extension-metotlar.deps.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/recursive-extension-metotlar/bin/Debug/net7.0/recursive-extension-metotlar.runtimeconfig.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/recursive-extension-metotlar/bin/Debug/net7.0/recursive-extension-metotlar.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/recursive-extension-metotlar/bin/Debug/net7.0/recursive-extension-metotlar.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/recursive-extension-metotlar/obj/Debug/net7.0/recursive-extension-metotlar.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/recursive-extension-metotlar/obj/Debug/net7.0/refint/recursive-extension-metotlar.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/recursive-extension-metotlar/obj/Debug/net7.0/recursive-extension-metotlar.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/recursive-extension-metotlar/obj/Debug/net7.0/recursive-extension-metotlar.genruntimeconfig.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/recursive-extension-metotlar/obj/Debug/net7.0/ref/recursive-extension-metotlar.dll
