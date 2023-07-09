@@ -1,0 +1,15 @@
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/diziler-array-sinifi-metotlari/bin/Debug/net7.0/diziler-array-sinifi-metotlari
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/diziler-array-sinifi-metotlari/bin/Debug/net7.0/diziler-array-sinifi-metotlari.deps.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/diziler-array-sinifi-metotlari/bin/Debug/net7.0/diziler-array-sinifi-metotlari.runtimeconfig.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/diziler-array-sinifi-metotlari/bin/Debug/net7.0/diziler-array-sinifi-metotlari.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/diziler-array-sinifi-metotlari/bin/Debug/net7.0/diziler-array-sinifi-metotlari.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/diziler-array-sinifi-metotlari/obj/Debug/net7.0/diziler-array-sinifi-metotlari.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/diziler-array-sinifi-metotlari/obj/Debug/net7.0/diziler-array-sinifi-metotlari.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/diziler-array-sinifi-metotlari/obj/Debug/net7.0/diziler-array-sinifi-metotlari.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/diziler-array-sinifi-metotlari/obj/Debug/net7.0/diziler-array-sinifi-metotlari.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/diziler-array-sinifi-metotlari/obj/Debug/net7.0/diziler-array-sinifi-metotlari.csproj.CoreCompileInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/diziler-array-sinifi-metotlari/obj/Debug/net7.0/diziler-array-sinifi-metotlari.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/diziler-array-sinifi-metotlari/obj/Debug/net7.0/refint/diziler-array-sinifi-metotlari.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/diziler-array-sinifi-metotlari/obj/Debug/net7.0/diziler-array-sinifi-metotlari.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/diziler-array-sinifi-metotlari/obj/Debug/net7.0/diziler-array-sinifi-metotlari.genruntimeconfig.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/diziler-array-sinifi-metotlari/obj/Debug/net7.0/ref/diziler-array-sinifi-metotlari.dll
