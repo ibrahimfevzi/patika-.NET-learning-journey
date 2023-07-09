@@ -1,0 +1,15 @@
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hata-yonetimi/bin/Debug/net7.0/hata-yonetimi
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hata-yonetimi/bin/Debug/net7.0/hata-yonetimi.deps.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hata-yonetimi/bin/Debug/net7.0/hata-yonetimi.runtimeconfig.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hata-yonetimi/bin/Debug/net7.0/hata-yonetimi.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hata-yonetimi/bin/Debug/net7.0/hata-yonetimi.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hata-yonetimi/obj/Debug/net7.0/hata-yonetimi.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hata-yonetimi/obj/Debug/net7.0/hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hata-yonetimi/obj/Debug/net7.0/hata-yonetimi.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hata-yonetimi/obj/Debug/net7.0/hata-yonetimi.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hata-yonetimi/obj/Debug/net7.0/hata-yonetimi.csproj.CoreCompileInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hata-yonetimi/obj/Debug/net7.0/hata-yonetimi.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hata-yonetimi/obj/Debug/net7.0/refint/hata-yonetimi.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hata-yonetimi/obj/Debug/net7.0/hata-yonetimi.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hata-yonetimi/obj/Debug/net7.0/hata-yonetimi.genruntimeconfig.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hata-yonetimi/obj/Debug/net7.0/ref/hata-yonetimi.dll
