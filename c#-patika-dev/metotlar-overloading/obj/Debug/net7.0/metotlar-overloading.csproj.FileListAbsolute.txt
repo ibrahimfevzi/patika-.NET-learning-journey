@@ -1,0 +1,15 @@
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar-overloading/bin/Debug/net7.0/metotlar-overloading
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar-overloading/bin/Debug/net7.0/metotlar-overloading.deps.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar-overloading/bin/Debug/net7.0/metotlar-overloading.runtimeconfig.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar-overloading/bin/Debug/net7.0/metotlar-overloading.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar-overloading/bin/Debug/net7.0/metotlar-overloading.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar-overloading/obj/Debug/net7.0/metotlar-overloading.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar-overloading/obj/Debug/net7.0/metotlar-overloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar-overloading/obj/Debug/net7.0/metotlar-overloading.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar-overloading/obj/Debug/net7.0/metotlar-overloading.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar-overloading/obj/Debug/net7.0/metotlar-overloading.csproj.CoreCompileInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar-overloading/obj/Debug/net7.0/metotlar-overloading.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar-overloading/obj/Debug/net7.0/refint/metotlar-overloading.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar-overloading/obj/Debug/net7.0/metotlar-overloading.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar-overloading/obj/Debug/net7.0/metotlar-overloading.genruntimeconfig.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/metotlar-overloading/obj/Debug/net7.0/ref/metotlar-overloading.dll
