@@ -1,0 +1,15 @@
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/donguler-for-loop/bin/Debug/net7.0/donguler-for-loop
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/donguler-for-loop/bin/Debug/net7.0/donguler-for-loop.deps.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/donguler-for-loop/bin/Debug/net7.0/donguler-for-loop.runtimeconfig.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/donguler-for-loop/bin/Debug/net7.0/donguler-for-loop.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/donguler-for-loop/bin/Debug/net7.0/donguler-for-loop.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/donguler-for-loop/obj/Debug/net7.0/donguler-for-loop.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/donguler-for-loop/obj/Debug/net7.0/donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/donguler-for-loop/obj/Debug/net7.0/donguler-for-loop.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/donguler-for-loop/obj/Debug/net7.0/donguler-for-loop.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/donguler-for-loop/obj/Debug/net7.0/donguler-for-loop.csproj.CoreCompileInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/donguler-for-loop/obj/Debug/net7.0/donguler-for-loop.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/donguler-for-loop/obj/Debug/net7.0/refint/donguler-for-loop.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/donguler-for-loop/obj/Debug/net7.0/donguler-for-loop.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/donguler-for-loop/obj/Debug/net7.0/donguler-for-loop.genruntimeconfig.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/donguler-for-loop/obj/Debug/net7.0/ref/donguler-for-loop.dll
