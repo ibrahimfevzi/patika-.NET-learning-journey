@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = donguler_for_loop
-build_property.ProjectDir = /Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/donguler-for-loop-while-foreach/
+build_property.RootNamespace = if_else_if
+build_property.ProjectDir = /Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/if-else-if/

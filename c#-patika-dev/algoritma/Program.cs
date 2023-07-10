@@ -78,6 +78,9 @@ Bir konsol uygulamasında kullanıcıdan bir cümle yazması isteyin. Cümledeki
             }
             Console.WriteLine("Cümledeki harf sayısı: {0}", harfSayisi);
 
+
+            // tüm sorular çözüldü.
+
             
 
 
