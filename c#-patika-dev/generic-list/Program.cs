@@ -122,3 +122,21 @@ namespace generic_list
 
     }
 }
+
+
+
+/* Hackerrank sorusu çüzümü
+
+Soru: https://www.hackerrank.com/challenges/30-generics/problem
+
+
+
+static void PrintArray<T>(T[] array)
+    {
+        foreach (T element in array)
+        {
+            Console.WriteLine(element);
+        }
+    }
+
+*/
