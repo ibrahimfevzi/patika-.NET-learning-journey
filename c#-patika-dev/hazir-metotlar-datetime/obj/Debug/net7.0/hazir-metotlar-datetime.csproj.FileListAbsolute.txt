@@ -1,0 +1,5 @@
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-datetime/obj/Debug/net7.0/hazir-metotlar-datetime.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-datetime/obj/Debug/net7.0/hazir-metotlar-datetime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-datetime/obj/Debug/net7.0/hazir-metotlar-datetime.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-datetime/obj/Debug/net7.0/hazir-metotlar-datetime.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-datetime/obj/Debug/net7.0/hazir-metotlar-datetime.csproj.CoreCompileInputs.cache
