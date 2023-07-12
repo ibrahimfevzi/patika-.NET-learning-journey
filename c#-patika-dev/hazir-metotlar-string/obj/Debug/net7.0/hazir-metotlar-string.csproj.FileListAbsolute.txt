@@ -1,0 +1,15 @@
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-string/obj/Debug/net7.0/hazir-metotlar-string.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-string/obj/Debug/net7.0/hazir-metotlar-string.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-string/obj/Debug/net7.0/hazir-metotlar-string.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-string/obj/Debug/net7.0/hazir-metotlar-string.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-string/obj/Debug/net7.0/hazir-metotlar-string.csproj.CoreCompileInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-string/bin/Debug/net7.0/hazir-metotlar-string
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-string/bin/Debug/net7.0/hazir-metotlar-string.deps.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-string/bin/Debug/net7.0/hazir-metotlar-string.runtimeconfig.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-string/bin/Debug/net7.0/hazir-metotlar-string.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-string/bin/Debug/net7.0/hazir-metotlar-string.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-string/obj/Debug/net7.0/hazir-metotlar-string.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-string/obj/Debug/net7.0/refint/hazir-metotlar-string.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-string/obj/Debug/net7.0/hazir-metotlar-string.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-string/obj/Debug/net7.0/hazir-metotlar-string.genruntimeconfig.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/hazir-metotlar-string/obj/Debug/net7.0/ref/hazir-metotlar-string.dll
