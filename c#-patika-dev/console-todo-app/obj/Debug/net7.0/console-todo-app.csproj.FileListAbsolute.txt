@@ -1,0 +1,15 @@
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-todo-app/bin/Debug/net7.0/console-todo-app
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-todo-app/bin/Debug/net7.0/console-todo-app.deps.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-todo-app/bin/Debug/net7.0/console-todo-app.runtimeconfig.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-todo-app/bin/Debug/net7.0/console-todo-app.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-todo-app/bin/Debug/net7.0/console-todo-app.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-todo-app/obj/Debug/net7.0/console-todo-app.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-todo-app/obj/Debug/net7.0/console-todo-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-todo-app/obj/Debug/net7.0/console-todo-app.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-todo-app/obj/Debug/net7.0/console-todo-app.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-todo-app/obj/Debug/net7.0/console-todo-app.csproj.CoreCompileInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-todo-app/obj/Debug/net7.0/console-todo-app.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-todo-app/obj/Debug/net7.0/refint/console-todo-app.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-todo-app/obj/Debug/net7.0/console-todo-app.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-todo-app/obj/Debug/net7.0/console-todo-app.genruntimeconfig.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-todo-app/obj/Debug/net7.0/ref/console-todo-app.dll
