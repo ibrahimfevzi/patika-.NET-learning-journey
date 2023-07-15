@@ -1,0 +1,15 @@
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-telefon-rehberi/bin/Debug/net7.0/console-telefon-rehberi
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-telefon-rehberi/bin/Debug/net7.0/console-telefon-rehberi.deps.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-telefon-rehberi/bin/Debug/net7.0/console-telefon-rehberi.runtimeconfig.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-telefon-rehberi/bin/Debug/net7.0/console-telefon-rehberi.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-telefon-rehberi/bin/Debug/net7.0/console-telefon-rehberi.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-telefon-rehberi/obj/Debug/net7.0/console-telefon-rehberi.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-telefon-rehberi/obj/Debug/net7.0/console-telefon-rehberi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-telefon-rehberi/obj/Debug/net7.0/console-telefon-rehberi.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-telefon-rehberi/obj/Debug/net7.0/console-telefon-rehberi.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-telefon-rehberi/obj/Debug/net7.0/console-telefon-rehberi.csproj.CoreCompileInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-telefon-rehberi/obj/Debug/net7.0/console-telefon-rehberi.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-telefon-rehberi/obj/Debug/net7.0/refint/console-telefon-rehberi.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-telefon-rehberi/obj/Debug/net7.0/console-telefon-rehberi.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-telefon-rehberi/obj/Debug/net7.0/console-telefon-rehberi.genruntimeconfig.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/console-telefon-rehberi/obj/Debug/net7.0/ref/console-telefon-rehberi.dll
