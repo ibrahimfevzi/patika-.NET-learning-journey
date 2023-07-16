@@ -1,0 +1,15 @@
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ATM-App/bin/Debug/net7.0/ATM-App
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ATM-App/bin/Debug/net7.0/ATM-App.deps.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ATM-App/bin/Debug/net7.0/ATM-App.runtimeconfig.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ATM-App/bin/Debug/net7.0/ATM-App.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ATM-App/bin/Debug/net7.0/ATM-App.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ATM-App/obj/Debug/net7.0/ATM-App.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ATM-App/obj/Debug/net7.0/ATM-App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ATM-App/obj/Debug/net7.0/ATM-App.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ATM-App/obj/Debug/net7.0/ATM-App.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ATM-App/obj/Debug/net7.0/ATM-App.csproj.CoreCompileInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ATM-App/obj/Debug/net7.0/ATM-App.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ATM-App/obj/Debug/net7.0/refint/ATM-App.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ATM-App/obj/Debug/net7.0/ATM-App.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ATM-App/obj/Debug/net7.0/ATM-App.genruntimeconfig.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ATM-App/obj/Debug/net7.0/ref/ATM-App.dll

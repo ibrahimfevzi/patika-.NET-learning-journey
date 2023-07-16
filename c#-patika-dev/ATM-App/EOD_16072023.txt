@@ -1,0 +1,6 @@
+Transaction Logları:
+Kullanıcı: user1, Bakiye: 1000
+Kullanıcı: user2, Bakiye: 2000
+Kullanıcı: ibrahim, Bakiye: 33
+
+Hatalı Giriş Denemeleri Logları:
