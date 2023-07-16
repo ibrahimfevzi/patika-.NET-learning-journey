@@ -1,0 +1,15 @@
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/daire-ciz/bin/Debug/net7.0/daire-ciz
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/daire-ciz/bin/Debug/net7.0/daire-ciz.deps.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/daire-ciz/bin/Debug/net7.0/daire-ciz.runtimeconfig.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/daire-ciz/bin/Debug/net7.0/daire-ciz.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/daire-ciz/bin/Debug/net7.0/daire-ciz.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/daire-ciz/obj/Debug/net7.0/daire-ciz.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/daire-ciz/obj/Debug/net7.0/daire-ciz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/daire-ciz/obj/Debug/net7.0/daire-ciz.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/daire-ciz/obj/Debug/net7.0/daire-ciz.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/daire-ciz/obj/Debug/net7.0/daire-ciz.csproj.CoreCompileInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/daire-ciz/obj/Debug/net7.0/daire-ciz.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/daire-ciz/obj/Debug/net7.0/refint/daire-ciz.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/daire-ciz/obj/Debug/net7.0/daire-ciz.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/daire-ciz/obj/Debug/net7.0/daire-ciz.genruntimeconfig.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/daire-ciz/obj/Debug/net7.0/ref/daire-ciz.dll
