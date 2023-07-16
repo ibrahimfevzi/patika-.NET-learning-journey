@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ucgen-ciz/1.0.0": {
+        "runtime": {
+          "ucgen-ciz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ucgen-ciz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

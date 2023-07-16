@@ -1,0 +1,15 @@
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ucgen-ciz/bin/Debug/net7.0/ucgen-ciz
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ucgen-ciz/bin/Debug/net7.0/ucgen-ciz.deps.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ucgen-ciz/bin/Debug/net7.0/ucgen-ciz.runtimeconfig.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ucgen-ciz/bin/Debug/net7.0/ucgen-ciz.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ucgen-ciz/bin/Debug/net7.0/ucgen-ciz.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ucgen-ciz/obj/Debug/net7.0/ucgen-ciz.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ucgen-ciz/obj/Debug/net7.0/ucgen-ciz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ucgen-ciz/obj/Debug/net7.0/ucgen-ciz.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ucgen-ciz/obj/Debug/net7.0/ucgen-ciz.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ucgen-ciz/obj/Debug/net7.0/ucgen-ciz.csproj.CoreCompileInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ucgen-ciz/obj/Debug/net7.0/ucgen-ciz.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ucgen-ciz/obj/Debug/net7.0/refint/ucgen-ciz.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ucgen-ciz/obj/Debug/net7.0/ucgen-ciz.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ucgen-ciz/obj/Debug/net7.0/ucgen-ciz.genruntimeconfig.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/ucgen-ciz/obj/Debug/net7.0/ref/ucgen-ciz.dll
