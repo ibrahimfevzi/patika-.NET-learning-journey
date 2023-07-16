@@ -1,0 +1,15 @@
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/tersini-yazdir/bin/Debug/net7.0/tersini-yazdir
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/tersini-yazdir/bin/Debug/net7.0/tersini-yazdir.deps.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/tersini-yazdir/bin/Debug/net7.0/tersini-yazdir.runtimeconfig.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/tersini-yazdir/bin/Debug/net7.0/tersini-yazdir.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/tersini-yazdir/bin/Debug/net7.0/tersini-yazdir.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/tersini-yazdir/obj/Debug/net7.0/tersini-yazdir.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/tersini-yazdir/obj/Debug/net7.0/tersini-yazdir.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/tersini-yazdir/obj/Debug/net7.0/tersini-yazdir.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/tersini-yazdir/obj/Debug/net7.0/tersini-yazdir.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/tersini-yazdir/obj/Debug/net7.0/tersini-yazdir.csproj.CoreCompileInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/tersini-yazdir/obj/Debug/net7.0/tersini-yazdir.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/tersini-yazdir/obj/Debug/net7.0/refint/tersini-yazdir.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/tersini-yazdir/obj/Debug/net7.0/tersini-yazdir.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/tersini-yazdir/obj/Debug/net7.0/tersini-yazdir.genruntimeconfig.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/tersini-yazdir/obj/Debug/net7.0/ref/tersini-yazdir.dll
