@@ -1,0 +1,15 @@
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/algoritma-split/bin/Debug/net7.0/algoritma-split
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/algoritma-split/bin/Debug/net7.0/algoritma-split.deps.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/algoritma-split/bin/Debug/net7.0/algoritma-split.runtimeconfig.json
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/algoritma-split/bin/Debug/net7.0/algoritma-split.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/algoritma-split/bin/Debug/net7.0/algoritma-split.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/algoritma-split/obj/Debug/net7.0/algoritma-split.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/algoritma-split/obj/Debug/net7.0/algoritma-split.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/algoritma-split/obj/Debug/net7.0/algoritma-split.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/algoritma-split/obj/Debug/net7.0/algoritma-split.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/algoritma-split/obj/Debug/net7.0/algoritma-split.csproj.CoreCompileInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/algoritma-split/obj/Debug/net7.0/algoritma-split.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/algoritma-split/obj/Debug/net7.0/refint/algoritma-split.dll
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/algoritma-split/obj/Debug/net7.0/algoritma-split.pdb
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/algoritma-split/obj/Debug/net7.0/algoritma-split.genruntimeconfig.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/c#-patika-dev/algoritma-split/obj/Debug/net7.0/ref/algoritma-split.dll
