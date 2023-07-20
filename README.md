@@ -4,7 +4,8 @@
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-´´´
+```
+
 using System;
 
 namespace dictionary
@@ -20,4 +21,4 @@ static void Main(string[] args)
 
 }
 
-´´´
+```
