@@ -1,0 +1,5 @@
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/pratikler/LinqPractices/obj/Debug/net7.0/LinqPractices.csproj.AssemblyReference.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/pratikler/LinqPractices/obj/Debug/net7.0/LinqPractices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/pratikler/LinqPractices/obj/Debug/net7.0/LinqPractices.AssemblyInfoInputs.cache
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/pratikler/LinqPractices/obj/Debug/net7.0/LinqPractices.AssemblyInfo.cs
+/Users/ibrahimkayan/My-Repos/kodluyoruz-patika-dev/pratikler/LinqPractices/obj/Debug/net7.0/LinqPractices.csproj.CoreCompileInputs.cache
